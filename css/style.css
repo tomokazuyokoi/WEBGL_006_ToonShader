@@ -31,3 +31,13 @@ canvas {
     pointer-events: auto;
 }
 
+.code{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+}
+.code a{
+    color: white;
+    
+}
+
